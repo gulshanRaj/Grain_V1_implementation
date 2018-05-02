@@ -15,4 +15,4 @@ $ ./filename
  ```
 ## References
 [1] Ecrypt page on Grain v1. It also provides a reference implementation. [Link](http://www.ecrypt.eu.org/stream/e2-grain.html)\
-[2] GrainV1 implementation by Vaibhav Raj Gupta. [Link](https://github.com/gvaibhavraj2/grainv1cipher)
+[2] Grain v1 implementation by Vaibhav Raj Gupta. [Link](https://github.com/gvaibhavraj2/grainv1cipher)
