@@ -1,7 +1,7 @@
 # Grain v1
-This repository contains software implementation of GrainV1 cipher written in C.
+This repository contains software implementation of Grain v1 cipher written in C.
 
-[Link to paper](http://www.ecrypt.eu.org/stream/p3ciphers/grain/Grain_p3.pdf "GRAIN V1")
+[Link to paper](http://www.ecrypt.eu.org/stream/p3ciphers/grain/Grain_p3.pdf "GRAIN v1")
 
 ## Code
 * __grain.h__ : definition of structures and functions used
